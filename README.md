@@ -59,3 +59,14 @@ GitHub: https://github.com/salih61lermi
 ├── style.css        # Main stylesheet
 └── README.md
 ```
+
+## 🚀 Future Improvements
+
+- Product search and advanced filtering
+- Product reviews and ratings
+- Online payment integration
+- Email verification
+- Password reset functionality
+- Responsive design improvements
+- Order tracking system
+- Wishlist feature
