@@ -40,3 +40,22 @@ This project was developed individually to simulate a real-world online shopping
 Developed by **Salih Lermi**
 
 GitHub: https://github.com/salih61lermi
+
+## 📂 Project Structure
+
+```text
+├── admin/           # Admin panel files
+├── images/          # Images used in the project
+├── account.php      # User account page
+├── cart.php         # Shopping cart
+├── config.php       # Database configuration
+├── database.sql     # Database schema
+├── index.php        # Home page
+├── login.php        # User login
+├── logout.php       # User logout
+├── products.php     # Product listing
+├── product-detail.php # Product details
+├── register.php     # User registration
+├── style.css        # Main stylesheet
+└── README.md
+```
