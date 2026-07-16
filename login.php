@@ -1,4 +1,12 @@
 <?php
+/**
+ * Login Page
+ * Handles user authentication.
+ * Author: Salih Lermi
+ */
+
+require_once 'config.php';
+<?php
 require_once 'config.php';
 
 if (isLoggedIn()) {
