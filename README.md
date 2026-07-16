@@ -20,3 +20,17 @@ This project was developed individually to simulate a real-world online shopping
 | MySQL | Veritabanı yönetimi |
 | HTML5 | Sayfa yapısı |
 | CSS3 | Arayüz tasarımı |
+
+## 🚀 Kurulum
+
+1. Repoyu bilgisayarınıza indirin.
+
+2. Projeyi XAMPP veya benzeri bir PHP sunucusunun `htdocs` klasörüne kopyalayın.
+
+3. MySQL üzerinde yeni bir veritabanı oluşturun.
+
+4. `database.sql` dosyasını içe aktarın.
+
+5. `config.php` dosyasındaki veritabanı ayarlarını kendi ortamınıza göre düzenleyin.
+
+6. Tarayıcıdan projeyi çalıştırın.
