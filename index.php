@@ -1,4 +1,10 @@
 <?php
+/**
+ * Home Page
+ * Displays featured products and homepage.
+ * Author: Salih Lermi
+ */
+<?php
 require_once 'config.php';
 
 $db = Database::getInstance()->getConnection();
