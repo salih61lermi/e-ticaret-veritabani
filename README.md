@@ -34,3 +34,9 @@ This project was developed individually to simulate a real-world online shopping
 5. `config.php` dosyasındaki veritabanı ayarlarını kendi ortamınıza göre düzenleyin.
 
 6. Tarayıcıdan projeyi çalıştırın.
+
+7. ## 👨‍💻 Developer
+
+Developed by **Salih Lermi**
+
+GitHub: https://github.com/salih61lermi
