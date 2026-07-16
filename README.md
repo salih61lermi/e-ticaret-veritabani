@@ -11,4 +11,12 @@ This project was developed individually to simulate a real-world online shopping
 - Ürün detay sayfası
 - Sepet sistemi
 - Admin paneli
-- PHP ve MySQL ile veritabanı yönetimi
+
+## 🛠️ Kullanılan Teknolojiler
+
+| Teknoloji | Açıklama |
+|------------|----------|
+| PHP | Sunucu tarafı programlama |
+| MySQL | Veritabanı yönetimi |
+| HTML5 | Sayfa yapısı |
+| CSS3 | Arayüz tasarımı |
