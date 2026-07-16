@@ -1,4 +1,10 @@
 <?php
+/**
+ * Registration Page
+ * Handles new user registration.
+ * Author: Salih Lermi
+ */
+<?php
 require_once 'config.php';
 
 if (isLoggedIn()) {
