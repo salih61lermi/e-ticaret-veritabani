@@ -3,6 +3,16 @@
 A full-stack e-commerce web application developed using PHP and MySQL.
 This project was developed individually to simulate a real-world online shopping platform.
 
+## 📖 Project Overview
+
+This project is a full-stack e-commerce web application developed individually using PHP, MySQL, HTML, and CSS.
+
+The system enables users to register, log in, browse products by category, search for products, manage a shopping cart, submit product reviews, and place orders.
+
+An administrative panel is included to manage products, categories, users, reviews, and customer orders through a centralized interface.
+
+The project was developed to strengthen practical full-stack web development skills by implementing the core functionalities of a modern e-commerce platform.
+
 ## ✨ Features
 
 - User registration and authentication
