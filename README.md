@@ -3,14 +3,25 @@
 A full-stack e-commerce web application developed using PHP and MySQL.
 This project was developed individually to simulate a real-world online shopping platform.
 
-## ✨ Özellikler
+## ✨ Features
 
-- Kullanıcı kayıt sistemi
-- Kullanıcı giriş ve çıkış sistemi
-- Ürün listeleme
-- Ürün detay sayfası
-- Sepet sistemi
-- Admin paneli
+- User registration and authentication
+- User profile management
+- Product listing with pagination
+- Product search functionality
+- Category-based product filtering
+- Featured products on the homepage
+- Product detail page
+- Product reviews
+- Shopping cart management
+- Order management
+- Contact form
+- Admin dashboard
+- Product management (Add / Edit)
+- Category management
+- User management
+- Order status management
+- Review management
 
 ## 🛠️ Kullanılan Teknolojiler
 
