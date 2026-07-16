@@ -1,4 +1,10 @@
 <?php
+/**
+ * Product Listing
+ * Displays all available products.
+ * Author: Salih Lermi
+ */
+<?php
 require_once 'config.php';
 
 $db = Database::getInstance()->getConnection();
